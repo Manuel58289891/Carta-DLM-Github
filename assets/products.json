@@ -102,7 +102,7 @@
         { "name": "Brusquetas 230g", "price": "2000", "available": true },
         { "name": "Masa frita 460g", "price": "3000", "available": true },
         { "name": "Masa Fricasé 460g", "price": "3500", "available": true },
-        { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "3500", "available": true }
+        { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "3500", "available": false }
       ]
     },
     {
