@@ -1,6 +1,6 @@
 {
   "restaurant": {
-    "name": "Bar-Restaurante-DLM",
+    "name": "DLM Restaurante",
     "subtitle": "Carta de ofertas",
     "description": "Sabores de la casa, picaderas y platos fuertes para compartir.",
     "service": "10%"
@@ -10,137 +10,107 @@
       "title": "Entrantes",
       "subtitle": "Para empezar",
       "products": [
-        { "name": "Entremés de Queso", "price": "$800", "available": true },
-        { "name": "Entremés de Jamón", "price": "$700", "available": true },
-        { "name": "Entremés de Jamón/queso", "price": "$1200", "available": true },
-        { "name": "Entremés Mixto", "price": "$1500", "available": true },
-        { "name": "Croquetas de la casa", "price": "$800", "available": true },
-        { "name": "Tostones mixtos", "price": "$950", "available": true },
-        { "name": "Tostones rellenos de atún", "price": "$950", "available": true },
-        { "name": "Tostones rellenos de ropa vieja de cerdo", "price": "$1100", "available": true },
-        { "name": "Tostones rellenos de ropa vieja de res", "price": "$1100", "available": true },
-        { "name": "Tostones naturales", "price": "$800", "available": true },
-        { "name": "Frituras de Malanga", "price": "$800", "available": true },
-        { "name": "Aceitunas", "price": "$400", "available": true },
-        { "name": "Papas fritas", "price": "$800", "available": true },
-        { "name": "Papas fritas con queso", "price": "$1100", "available": true },
-        { "name": "Salchipapa", "price": "$1200", "available": true },
-        { "name": "Bolitas queso", "price": "$1100", "available": true },
-        { "name": "Picadera DLM", "price": "$4000", "available": true }
+        { "name": "Queso", "price": "$800", "available": true },
+        { "name": "Jamón", "price": "$700" },
+        { "name": "Jamón/queso", "price": "$1200" },
+        { "name": "Mixto", "price": "$1500" },
+        { "name": "Croquetas", "price": "$800" },
+        { "name": "Tost. mixtos", "price": "$950" },
+        { "name": "Tost. atún", "price": "$950" },
+        { "name": "Tost. cerdo/res", "price": "$1100" },
+        { "name": "Tostones", "price": "$800" },
+        { "name": "Malanga", "price": "$800" },
+        { "name": "Aceitunas", "price": "$400" },
+        { "name": "Papas fritas", "price": "$800" },
+        { "name": "Papas con queso", "price": "$1100" },
+        { "name": "Salchipapa", "price": "$1200" }
       ]
     },
     {
       "title": "Fríos",
       "subtitle": "Frescos",
       "products": [
-        { "name": "Ensal. jamón", "price": "$800", "available": true },
-        { "name": "Ensal. atún", "price": "$850", "available": true },
-        { "name": "Crema queso", "price": "$800", "available": true },
-        { "name": "Crema jamón", "price": "$1000", "available": true }
+        { "name": "Ensal. jamón", "price": "$800" },
+        { "name": "Ensal. atún", "price": "$850" },
+        { "name": "Bolitas queso", "price": "$1100" },
+        { "name": "Picadera DLM", "price": "$4000" },
+        { "name": "Crema queso", "price": "$800" },
+        { "name": "Crema jamón", "price": "$1000" }
       ]
     },
     {
       "title": "Cocteles",
       "subtitle": "Del bar",
       "products": [
-        { "name": "Camarón", "price": "$1800", "available": true },
-        { "name": "Langosta", "price": "$1800", "available": true }
+        { "name": "Camarón", "price": "$1800" },
+        { "name": "Langosta", "price": "$1800" }
       ]
     },
     {
       "title": "Guarniciones",
       "subtitle": "Acompañantes",
       "products": [
-        { "name": "Ración de Yuca", "price": "$400", "available": true },
-        { "name": "Ensalada mixta", "price": "$1000", "available": true }
+        { "name": "Yuca", "price": "$400" },
+        { "name": "Ensalada mixta", "price": "$1000" }
       ]
     },
     {
       "title": "Agregos",
       "subtitle": "Extras",
       "products": [
-        { "name": "Chorizo 50g", "price": "$200", "available": true },
-        { "name": "Jamón 50g", "price": "$250", "available": true },
-        { "name": "Queso 50g", "price": "$450", "available": true }
+        { "name": "Chorizo", "price": "$200" },
+        { "name": "Jamón", "price": "$250" },
+        { "name": "Queso", "price": "$450" }
       ]
     },
     {
       "title": "Pastas & arroz",
       "subtitle": "Clásicos",
       "products": [
-        { "name": "Espaguetis de jamón", "price": "$900", "available": true },
-        { "name": "Espaguetis con  queso", "price": "$900", "available": true },
-        { "name": "Espaguetis de jamón y queso", "price": "$1200", "available": true },
-        { "name": "Arroz blanco", "price": "$200", "available": true },
-        { "name": "Arroz moro", "price": "$400", "available": true },
-        { "name": "Arroz frito", "price": "$1000", "available": true }
+        { "name": "Esp. jamón", "price": "$900" },
+        { "name": "Esp. queso", "price": "$900" },
+        { "name": "Jamón/queso", "price": "$1200" },
+        { "name": "Arroz blanco", "price": "$200" },
+        { "name": "Arroz moro", "price": "$400" },
+        { "name": "Arroz frito", "price": "$1000" }
       ]
     },
     {
       "title": "Pollo",
       "subtitle": "Fuertes",
       "products": [
-        { "name": "Cordon bleu 230g", "price": "$2800", "available": true },
-        { "name": "Fajitas empanadas 230g", "price": "$1900", "available": true },
-        { "name": "Fajitas encebolladas 230g", "price": "$1900", "available": true },
-        { "name": "Bistec grillé 230g", "price": "$1800", "available": true },
-        { "name": "Milanesa 230g", "price": "$2800", "available": true }
+        { "name": "Cordon bleu", "price": "$2800" },
+        { "name": "Fajitas emp.", "price": "$1900" },
+        { "name": "Fajitas enceb.", "price": "$1900" },
+        { "name": "Bistec grillé", "price": "$1800" },
+        { "name": "Milanesa", "price": "$2800" }
       ]
     },
     {
-      "title": "Cerdo",
+      "title": "Cerdo / res",
       "subtitle": "Parrilla",
       "products": [
-        { "name": "Uruguayo 230g", "price": "2800", "available": true },
-        { "name": "Rollo Empanado 230g", "price": "2800", "available": true },
-        { "name": "Fajitas Empanadas 230g ", "price": "1900", "available": true },
-        { "name": "Fajitas Encebolladas 230g", "price": "1800", "available": true },
-        { "name": "Milanesa 230g (con jamón y queso)", "price": "$2300", "available": true },
-        { "name": "Bistec grillé 230g", "price": "1800", "available": true },
-        { "name": "Bistec grillé", "price": "Con agregos", "available": true },
-        { "name": "Ropa vieja 150g", "price": "1800", "available": true },
-        { "name": "Brusquetas 230g", "price": "2000", "available": true },
-        { "name": "Masa frita 460g", "price": "3000", "available": true },
-        { "name": "Masa Fricasé 460g", "price": "3500", "available": true },
-        { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "3500", "available": false }
+        { "name": "Cerdo", "price": "$1800-3500" },
+        { "name": "Res", "price": "$2000" }
       ]
     },
-    {
-      "title": "Res",
-      "subtitle": "Parrilla",
-      "products": [
-      { "name": "Ropa vieja 150g", "price": "2000", "available": true },
-      { "name": "Vaca Frita", "price": "2000", "available": true }
-      ]
-    },
-
     {
       "title": "Mar",
       "subtitle": "Del mar",
       "products": [
-        { "name": "Ceviche de Camarón 115g", "price": "$2300", "available": true },
-        { "name": "Camarón al ajillo 230g", "price": "$2400", "available": true },
-        { "name": "Camarón enchilado 230g", "price": "$2700", "available": true },
-        { "name": "Camarón rebosado 230g", "price": "2600", "available": true },
-        { "name": "Bistec de langosta mariposa 300g", "price": "2800", "available": true },
-        { "name": "Enchilado de langosta 300g", "price": "3000", "available": true },
-        { "name": "Langosta Rebosada 300g", "price": "3000", "available": true },
-        { "name": "Langosta al ajillo 300g", "price": "2800", "available": true },
-        { "name": "Langosta a mi manera 300g", "price": "30000", "available": true },
-        { "name": "Minuta Frita 300g", "price": "1400", "available": true },
-        { "name": "Filete de pescado 230g", "price": "1600", "available": true },
-        { "name": "Ceviche 115g", "price": "1900", "available": true },
-        { "name": "Eperlán 230g", "price": "1900", "available": true }
+        { "name": "Camarón", "price": "$2400" },
+        { "name": "Langosta", "price": "$3000" },
+        { "name": "Pescado", "price": "$1600" }
       ]
     },
     {
       "title": "Postres",
       "subtitle": "Final dulce",
       "products": [
-        { "name": "Helado 2 bolas", "price": "$550", "available": true },
-        { "name": "Helado 3 bolas", "price": "$750", "available": true },
-        { "name": "Flan", "price": "$500", "available": true },
-        { "name": "Postre de la casa", "price": "$800", "available": true }
+        { "name": "Helado 2 bolas", "price": "$550" },
+        { "name": "Helado 3 bolas", "price": "$750" },
+        { "name": "Flan", "price": "$500" },
+        { "name": "Postre casa", "price": "$800" }
       ]
     }
   ]
