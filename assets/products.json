@@ -2,7 +2,7 @@
   "restaurant": {
     "name": "Bar Restaurante DLM",
     "subtitle": "Carta de ofertas",
-    "description": "Sabores de la casa, picaderas y platos fuertes para compartir.",
+    "description": "Sabores de la casa, bebidas, picaderas y platos fuertes para compartir.",
     "service": "10%"
   },
   "categories": [
@@ -33,10 +33,10 @@
       "title": "Fríos",
       "subtitle": "Frescos",
       "products": [
-        { "name": "Ensal. jamón", "price": "$800", "available": true },
-        { "name": "Ensal. atún", "price": "$850", "available": true },
-        { "name": "Crema queso", "price": "$800", "available": true },
-        { "name": "Crema jamón", "price": "$1000", "available": true }
+        { "name": "Ensalada fría de jamón", "price": "$800", "available": true },
+        { "name": "Ensalalada fría de atún", "price": "$850", "available": true },
+        { "name": "Crema de queso", "price": "$800", "available": true },
+        { "name": "Crema jamón y queso", "price": "$1000", "available": true }
       ]
     },
     {
@@ -142,6 +142,82 @@
         { "name": "Flan", "price": "$500", "available": true },
         { "name": "Postre de la casa", "price": "$800", "available": true }
       ]
-    }
+    },
+    {
+    "title": "Coctelería",
+    "subtitle": "Clásicos y Tropicales",
+    "products": [
+      { "name": "Malteada", "price": "$500", "available": true },
+      { "name": "Michelada", "price": "$600", "available": true },
+      { "name": "Chelada", "price": "$500", "available": true },
+      { "name": "Long Island", "price": "$850", "available": true },
+      { "name": "Piña colada", "price": "$800", "available": true },
+      { "name": "Sangría", "price": "$800", "available": true },
+      { "name": "Gin Tonic", "price": "$900", "available": true },
+      { "name": "Gin Tonic Rosé", "price": "$5900", "available": true },
+      { "name": "Margarita", "price": "$800", "available": true },
+      { "name": "Tequila Sunrise", "price": "$750", "available": true },
+      { "name": "Submarino", "price": "$550", "available": true },
+      { "name": "Limonada", "price": "$650", "available": true },
+      { "name": "Limonada frescura", "price": "$700", "available": true },
+      { "name": "Limonada clarete", "price": "$700", "available": true },
+      { "name": "Daiquiri", "price": "$700", "available": true },
+      { "name": "Daiquirí Rebelde", "price": "$700", "available": true },
+      { "name": "Mojito", "price": "$600", "available": true },
+      { "name": "Collins", "price": "$700", "available": true },
+      { "name": "Caipiriña", "price": "$700", "available": true },
+      { "name": "Caipiroska", "price": "$700", "available": true },
+      { "name": "Caipirísima", "price": "$700", "available": true },
+      { "name": "Caipirila", "price": "$700", "available": true },
+      { "name": "Cuba Libre", "price": "$650", "available": true },
+      { "name": "Cubata", "price": "$700", "available": true },
+      { "name": "Cubanito", "price": "$700", "available": true },
+      { "name": "Screw Driver", "price": "$600", "available": true },
+      { "name": "Sex on the Beach", "price": "$750", "available": true },
+      { "name": "Canchanchara", "price": "$700", "available": true },
+      { "name": "Pantera rosa", "price": "$900", "available": true },
+      { "name": "Coctel DLM", "price": "$800", "available": true },
+      { "name": "Blue Lagoon", "price": "$800", "available": true },
+      { "name": "Galán de Noche", "price": "$850", "available": true },
+      { "name": "Copa de vino", "price": "$700", "available": true }
+    ]
+  },
+  {
+    "title": "Bebidas",
+    "subtitle": "Refrescantes y Energéticas",
+    "products": [
+      { "name": "Batido de helado", "price": "$1000", "available": true },
+      { "name": "Cerveza de lata", "price": "$350", "available": true },
+      { "name": "Cerveza Cristal", "price": "$450", "available": true },
+      { "name": "Cerveza importada", "price": "$900", "available": true },
+      { "name": "Refresco de lata", "price": "$320", "available": true },
+      { "name": "Malta", "price": "$350", "available": true },
+      { "name": "Red Bull", "price": "$750", "available": true },
+      { "name": "Energético", "price": "$450", "available": true },
+      { "name": "Kermato", "price": "$750", "available": true },
+      { "name": "Jugo de Cajita", "price": "$250", "available": true },
+      { "name": "Jugo de lata", "price": "$450", "available": true },
+      { "name": "Pomo de agua", "price": "$200", "available": true }
+    ]
+  },
+  {
+    "title": "Café",
+    "subtitle": "Energía y Sabor",
+    "products": [
+      { "name": "Café expreso", "price": "$200", "available": true }
+    ]
+  },
+  {
+    "title": "Líneas",
+    "subtitle": "Espíritus Premium",
+    "products": [
+      { "name": "Vodka Ciroc", "price": "$900", "available": true },
+      { "name": "Crema Baileys", "price": "$600", "available": true },
+      { "name": "Crema Ruavieja", "price": "$500", "available": true },
+      { "name": "Crema Berentzen", "price": "$400", "available": true },
+      { "name": "Ginebra Jodhpur (Spicy Destilled)", "price": "$500", "available": true }
+    ]
+  }  
   ]
+  
 }
