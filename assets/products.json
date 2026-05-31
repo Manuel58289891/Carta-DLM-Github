@@ -215,8 +215,8 @@
       { "name": "Crema Baileys", "price": "$600", "available": true },
       { "name": "Crema Ruavieja", "price": "$500", "available": true },
       { "name": "Crema Berentzen", "price": "$400", "available": true },
-      { "name": "Ginebra Jodhpur (Spicy Destilled)", "price": "$500", "available": true }
-    { "name": "Ginebra Jodhpur (Imported London Dry)", "price": "$500", "available": true },
+      { "name": "Ginebra Jodhpur (Spicy Destilled)", "price": "$500", "available": true },
+      { "name": "Ginebra Jodhpur (Imported London Dry)", "price": "$500", "available": true },
       { "name": "Ginebra Masters Pink", "price": "$500", "available": true },
       { "name": "Ginebra Masters London", "price": "$500", "available": true },
       { "name": "Ron Santiago de Cuba", "price": "$500", "available": true },
