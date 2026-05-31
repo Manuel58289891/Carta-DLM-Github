@@ -91,26 +91,26 @@
       "title": "Cerdo",
       "subtitle": "Parrilla",
       "products": [
-        { "name": "Uruguayo 230g", "price": "2800", "available": true },
-        { "name": "Rollo Empanado 230g", "price": "2800", "available": true },
-        { "name": "Fajitas Empanadas 230g ", "price": "1900", "available": true },
-        { "name": "Fajitas Encebolladas 230g", "price": "1800", "available": true },
+        { "name": "Uruguayo 230g", "price": "$2800", "available": true },
+        { "name": "Rollo Empanado 230g", "price": "$2800", "available": true },
+        { "name": "Fajitas Empanadas 230g ", "price": "$1900", "available": true },
+        { "name": "Fajitas Encebolladas 230g", "price": "$1800", "available": true },
         { "name": "Milanesa 230g (con jamón y queso)", "price": "$2300", "available": true },
-        { "name": "Bistec grillé 230g", "price": "1800", "available": true },
+        { "name": "Bistec grillé 230g", "price": "$1800", "available": true },
         { "name": "Bistec grillé", "price": "Con agregos", "available": true },
-        { "name": "Ropa vieja 150g", "price": "1800", "available": true },
-        { "name": "Brusquetas 230g", "price": "2000", "available": true },
-        { "name": "Masa frita 460g", "price": "3000", "available": true },
-        { "name": "Masa Fricasé 460g", "price": "3500", "available": true },
-        { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "3500", "available": true }
+        { "name": "Ropa vieja 150g", "price": "$1800", "available": true },
+        { "name": "Brusquetas 230g", "price": "$2000", "available": true },
+        { "name": "Masa frita 460g", "price": "$3000", "available": true },
+        { "name": "Masa Fricasé 460g", "price": "$3500", "available": true },
+        { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "$3500", "available": true }
       ]
     },
     {
       "title": "Res",
       "subtitle": "Parrilla",
       "products": [
-      { "name": "Ropa vieja 150g", "price": "2000", "available": true },
-      { "name": "Vaca Frita", "price": "2000", "available": true }
+      { "name": "Ropa vieja 150g", "price": "$2000", "available": true },
+      { "name": "Vaca Frita", "price": "$2000", "available": true }
       ]
     },
 
@@ -121,16 +121,16 @@
         { "name": "Ceviche de Camarón 115g", "price": "$2300", "available": true },
         { "name": "Camarón al ajillo 230g", "price": "$2400", "available": true },
         { "name": "Camarón enchilado 230g", "price": "$2700", "available": true },
-        { "name": "Camarón rebosado 230g", "price": "2600", "available": true },
-        { "name": "Bistec de langosta mariposa 300g", "price": "2800", "available": true },
-        { "name": "Enchilado de langosta 300g", "price": "3000", "available": true },
-        { "name": "Langosta Rebosada 300g", "price": "3000", "available": true },
-        { "name": "Langosta al ajillo 300g", "price": "2800", "available": true },
-        { "name": "Langosta a mi manera 300g", "price": "30000", "available": true },
-        { "name": "Minuta Frita 300g", "price": "1400", "available": true },
-        { "name": "Filete de pescado 230g", "price": "1600", "available": true },
-        { "name": "Ceviche 115g", "price": "1900", "available": true },
-        { "name": "Eperlán 230g", "price": "1900", "available": true }
+        { "name": "Camarón rebosado 230g", "price": "$2600", "available": true },
+        { "name": "Bistec de langosta mariposa 300g", "price": "$2800", "available": true },
+        { "name": "Enchilado de langosta 300g", "price": "$3000", "available": true },
+        { "name": "Langosta Rebosada 300g", "price": "$3000", "available": true },
+        { "name": "Langosta al ajillo 300g", "price": "$2800", "available": true },
+        { "name": "Langosta a mi manera 300g", "price": "$30000", "available": true },
+        { "name": "Minuta Frita 300g", "price": "$1400", "available": true },
+        { "name": "Filete de pescado 230g", "price": "$1600", "available": true },
+        { "name": "Ceviche 115g", "price": "$1900", "available": true },
+        { "name": "Eperlán 230g", "price": "$1900", "available": true }
       ]
     },
     {
