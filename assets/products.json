@@ -22,11 +22,11 @@
         { "name": "Tostones naturales", "price": "$800", "available": true },
         { "name": "Frituras de Malanga", "price": "$800", "available": true },
         { "name": "Aceitunas", "price": "$400", "available": true },
-        { "name": "Papas fritas", "price": "$800", "available": true },
-        { "name": "Papas fritas con queso", "price": "$1100", "available": true },
+        { "name": "Papas fritas", "price": "$900", "available": true },
+        { "name": "Papas fritas con queso", "price": "$1200", "available": true },
         { "name": "Salchipapa", "price": "$1200", "available": true },
         { "name": "Bolitas queso", "price": "$1100", "available": true },
-        { "name": "Picadera DLM", "price": "$4000", "available": true }
+        { "name": "Picadera DLM", "price": "$4500", "available": true }
       ]
     },
     {
@@ -71,8 +71,8 @@
         { "name": "Espaguetis de jamón", "price": "$900", "available": true },
         { "name": "Espaguetis con  queso", "price": "$900", "available": true },
         { "name": "Espaguetis de jamón y queso", "price": "$1200", "available": true },
-        { "name": "Arroz blanco", "price": "$200", "available": true },
-        { "name": "Arroz moro", "price": "$400", "available": true },
+        { "name": "Arroz blanco", "price": "$300", "available": true },
+        { "name": "Arroz moro", "price": "$500", "available": true },
         { "name": "Arroz frito", "price": "$1000", "available": true }
       ]
     },
@@ -102,7 +102,7 @@
         { "name": "Brusquetas 230g", "price": "$2000", "available": true },
         { "name": "Masa frita 460g", "price": "$3000", "available": true },
         { "name": "Masa Fricasé 460g", "price": "$3500", "available": true },
-        { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "$3500", "available": true }
+        { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "$4000", "available": true }
       ]
     },
     {
@@ -188,16 +188,16 @@
     "products": [
       { "name": "Batido de helado", "price": "$1000", "available": true },
       { "name": "Cerveza de lata", "price": "$350", "available": true },
-      { "name": "Cerveza Cristal", "price": "$450", "available": true },
+      { "name": "Cerveza Cristal", "price": "$500", "available": true },
       { "name": "Cerveza importada", "price": "$900", "available": true },
       { "name": "Refresco de lata", "price": "$320", "available": true },
-      { "name": "Malta", "price": "$350", "available": true },
+      { "name": "Malta", "price": "$400", "available": true },
       { "name": "Red Bull", "price": "$750", "available": true },
       { "name": "Energético", "price": "$450", "available": true },
       { "name": "Kermato", "price": "$750", "available": true },
-      { "name": "Jugo de Cajita", "price": "$250", "available": true },
+      { "name": "Jugo de Cajita", "price": "$300", "available": true },
       { "name": "Jugo de lata", "price": "$450", "available": true },
-      { "name": "Pomo de agua", "price": "$200", "available": true }
+      { "name": "Pomo de agua", "price": "$250", "available": true }
     ]
   },
   {
