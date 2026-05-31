@@ -216,8 +216,45 @@
       { "name": "Crema Ruavieja", "price": "$500", "available": true },
       { "name": "Crema Berentzen", "price": "$400", "available": true },
       { "name": "Ginebra Jodhpur (Spicy Destilled)", "price": "$500", "available": true }
+    { "name": "Ginebra Jodhpur (Imported London Dry)", "price": "$500", "available": true },
+      { "name": "Ginebra Masters Pink", "price": "$500", "available": true },
+      { "name": "Ginebra Masters London", "price": "$500", "available": true },
+      { "name": "Ron Santiago de Cuba", "price": "$500", "available": true },
+      { "name": "Ron Legendario", "price": "$500", "available": true },
+      { "name": "Ron Eminente 7 años", "price": "$1500", "available": true },
+      { "name": "Whisky Chivas Regal (18 años)", "price": "$1900", "available": true },
+      { "name": "Whisky Ballantine", "price": "$800", "available": true },
+      { "name": "Whisky Red Label", "price": "$1000", "available": true },
+      { "name": "Whisky Jameson", "price": "$1000", "available": true },
+      { "name": "Whisky Jameson Black Barrel", "price": "$1200", "available": true },
+      { "name": "Tequila Blanco", "price": "$400", "available": true },
+      { "name": "Tequila Reposado", "price": "$600", "available": true },
+      { "name": "Tequila Rosé", "price": "$1900", "available": true },
+      { "name": "Jager", "price": "$850", "available": true }
     ]
-  }  
+  },
+  {
+    "title": "Botellas en Ofertas",
+    "subtitle": "Promociones Especiales",
+    "products": [
+      { "name": "Vino Espumoso", "price": "$7000", "available": true },
+      { "name": "Ron Havana Club Especial (con 1 Red Bull)", "price": "$7000", "available": true },
+      { "name": "Ron Havana Club Smoky (con 1 Red Bull)", "price": "$12000", "available": true },
+      { "name": "Ron Eminente 7 años (con 1 Red Bull)", "price": "$20000", "available": true },
+      { "name": "Vodka Krova (con 1 caja de jugo)", "price": "$8000", "available": true },
+      { "name": "Vodka Ciroc (con 1 caja de jugo)", "price": "$15000", "available": true },
+      { "name": "Vodka Belvedere (con 1 caja de jugo)", "price": "$8560", "available": true },
+      { "name": "Whisky Back to Black (con 1 Red Bull)", "price": "$8000", "available": true },
+      { "name": "Whisky Ballantine (con 1 Red Bull)", "price": "$12000", "available": true },
+      { "name": "Whisky Jameson (con 1 Red Bull)", "price": "$16000", "available": true },
+      { "name": "Whisky Jameson Black Barrel (con 1 Red Bull)", "price": "$18000", "available": true },
+      { "name": "Whisky Chivas Regal (18 años) (con 1 Red Bull)", "price": "$28000", "available": true },
+      { "name": "Whisky Red Label (con 1 Red Bull)", "price": "$15000", "available": true },
+      { "name": "Tequila Rose", "price": "$27000", "available": true },
+      { "name": "Jager", "price": "$13000", "available": true }
+    ]
+  }
+    
   ]
   
 }
