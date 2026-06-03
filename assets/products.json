@@ -80,8 +80,8 @@
       "title": "Pollo",
       "subtitle": "Fuertes",
       "products": [
-        { "name": "Cordon bleu 230g", "price": "$2800", "available": true },
-        { "name": "Fajitas empanadas 230g", "price": "$1900", "available": true },
+        { "name": "Gordon blue 230g", "price": "$2800", "available": true },
+        { "name": "Fajitas Empanadas 230g", "price": "$1900", "available": true },
         { "name": "Fajitas encebolladas 230g", "price": "$1900", "available": true },
         { "name": "Bistec grillé 230g", "price": "$1800", "available": true },
         { "name": "Milanesa 230g", "price": "$2800", "available": true }
