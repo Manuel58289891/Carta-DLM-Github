@@ -15,7 +15,7 @@
         { "name": "Entremés de Jamón/queso", "price": "$1200", "available": true },
         { "name": "Entremés Mixto", "price": "$1500", "available": true },
         { "name": "Croquetas de la casa", "price": "$800", "available": true },
-        { "name": "Tostones mixtos", "price": "$950", "available": true },
+        { "name": "Tostones rellenos de jamón y queso", "price": "$950", "available": true },
         { "name": "Tostones rellenos de atún", "price": "$950", "available": true },
         { "name": "Tostones rellenos de ropa vieja de cerdo", "price": "$1100", "available": true },
         { "name": "Tostones rellenos de ropa vieja de res", "price": "$1100", "available": true },
@@ -95,7 +95,7 @@
         { "name": "Rollo Empanado 230g", "price": "$2800", "available": true },
         { "name": "Fajitas Empanadas 230g ", "price": "$1900", "available": true },
         { "name": "Fajitas Encebolladas 230g", "price": "$1800", "available": true },
-        { "name": "Milanesa 230g (con jamón y queso)", "price": "$2300", "available": true },
+        { "name": "Milanesa 230g (con jamón y queso)", "price": "$2800", "available": true },
         { "name": "Bistec grillé 230g", "price": "$1800", "available": true },
         { "name": "Bistec grillé", "price": "Con agregos", "available": true },
         { "name": "Ropa vieja 150g", "price": "$1800", "available": true },
@@ -126,7 +126,7 @@
         { "name": "Enchilado de langosta 300g", "price": "$3000", "available": true },
         { "name": "Langosta Rebosada 300g", "price": "$3000", "available": true },
         { "name": "Langosta al ajillo 300g", "price": "$2800", "available": true },
-        { "name": "Langosta a mi manera 300g", "price": "$30000", "available": true },
+        { "name": "Langosta a mi manera 300g", "price": "$3000", "available": true },
         { "name": "Minuta Frita 300g", "price": "$1400", "available": true },
         { "name": "Filete de pescado 230g", "price": "$1600", "available": true },
         { "name": "Ceviche 115g", "price": "$1900", "available": true },
@@ -154,7 +154,7 @@
       { "name": "Piña colada", "price": "$800", "available": true },
       { "name": "Sangría", "price": "$800", "available": true },
       { "name": "Gin Tonic", "price": "$900", "available": true },
-      { "name": "Gin Tonic Rosé", "price": "$5900", "available": true },
+      { "name": "Gin Tonic Rosé", "price": "$900", "available": true },
       { "name": "Margarita", "price": "$800", "available": true },
       { "name": "Tequila Sunrise", "price": "$750", "available": true },
       { "name": "Submarino", "price": "$550", "available": true },
@@ -204,7 +204,8 @@
     "title": "Café",
     "subtitle": "Energía y Sabor",
     "products": [
-      { "name": "Café expreso", "price": "$200", "available": true }
+      { "name": "Café expreso", "price": "$200", "available": true },
+      { "name": "Café cortadito", "price": "$400", "available": true }
     ]
   },
   {
