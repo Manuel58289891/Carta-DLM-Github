@@ -187,7 +187,7 @@
     "subtitle": "Refrescantes y Energéticas",
     "products": [
       { "name": "Batido de helado", "price": "$1100", "available": true },
-      { "name": "Cerveza de lata", "price": "$400", "available": true },
+      { "name": "Cerveza de lata", "price": "$450", "available": true },
       { "name": "Cerveza Cristal", "price": "$550", "available": true },
       { "name": "Cerveza importada", "price": "$100", "available": true },
       { "name": "Refresco de lata", "price": "$380", "available": true },
