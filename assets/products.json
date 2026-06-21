@@ -25,7 +25,7 @@
         { "name": "Papas fritas", "price": "$1000", "available": true },
         { "name": "Papas fritas con queso", "price": "$1350", "available": true },
         { "name": "Salchipapa", "price": "$1350", "available": true },
-        { "name": "Bolitas queso", "price": "$1250", "available": true },
+        { "name": "Bolitas queso", "price": "$1500", "available": true },
         { "name": "Picadera DLM", "price": "$4500", "available": true }
       ]
     },
@@ -186,7 +186,7 @@
     "title": "Bebidas",
     "subtitle": "Refrescantes y Energéticas",
     "products": [
-      { "name": "Batido de helado", "price": "$1100", "available": true },
+      { "name": "Batido de helado", "price": "$1500", "available": true },
       { "name": "Cerveza de lata", "price": "$450", "available": true },
       { "name": "Cerveza Cristal", "price": "$550", "available": true },
       { "name": "Cerveza importada", "price": "$1100", "available": true },
