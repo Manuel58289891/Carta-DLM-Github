@@ -140,7 +140,7 @@
         { "name": "Helado 2 bolas", "price": "$550", "available": true },
         { "name": "Helado 3 bolas", "price": "$750", "available": true },
         { "name": "Flan", "price": "$500", "available": true },
-        { "name": "Postre de la casa", "price": "$800", "available": true }
+        { "name": "Postre de la casa", "price": "$900", "available": true }
       ]
     },
     {
