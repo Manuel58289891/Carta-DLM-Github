@@ -80,22 +80,22 @@
       "title": "Pollo",
       "subtitle": "Fuertes",
       "products": [
-        { "name": "Gordon blue 230g", "price": "$3100", "available": true },
+        { "name": "Gordon blue 230g", "price": "$3500", "available": true },
         { "name": "Fajitas Empanadas 230g", "price": "$2100", "available": true },
         { "name": "Fajitas encebolladas 230g", "price": "$2100", "available": true },
         { "name": "Bistec grillé 230g", "price": "$2000", "available": true },
-        { "name": "Milanesa 230g", "price": "$3100", "available": true }
+        { "name": "Milanesa 230g", "price": "$3500", "available": true }
       ]
     },
     {
       "title": "Cerdo",
       "subtitle": "Parrilla",
       "products": [
-        { "name": "Uruguayo 230g", "price": "$3100", "available": true },
+        { "name": "Uruguayo 230g", "price": "$3500", "available": true },
         { "name": "Rollo Empanado 230g", "price": "$3100", "available": true },
         { "name": "Fajitas Empanadas 230g ", "price": "$2100", "available": true },
         { "name": "Fajitas Encebolladas 230g", "price": "$2000", "available": true },
-        { "name": "Milanesa 230g (con jamón y queso)", "price": "$3100", "available": true },
+        { "name": "Milanesa 230g (con jamón y queso)", "price": "$3500", "available": true },
         { "name": "Bistec grillé 230g", "price": "$2000", "available": true },
         { "name": "Bistec grillé", "price": "Con agregos", "available": true },
         { "name": "Ropa vieja 150g", "price": "$2000", "available": true },
