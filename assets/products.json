@@ -33,25 +33,25 @@
       "title": "Fríos",
   "subtitle": "Frescos",
   "products": [
-    { "name": "Ensalada fría de jamón", "price": "$1200", "available": true },
-    { "name": "Ensalalada fría de atún", "price": "$1250", "available": true },
-    { "name": "Crema de queso", "price": "$1200", "available": true },
-    { "name": "Crema jamón y queso", "price": "$1400", "available": true }
+    { "name": "Ensalada fría de jamón", "price": "$900", "available": true },
+    { "name": "Ensalalada fría de atún", "price": "$950", "available": true },
+    { "name": "Crema de queso", "price": "$900", "available": true },
+    { "name": "Crema jamón y queso", "price": "$1100", "available": true }
   ]
     },
     {
       "title": "Cocteles",
       "subtitle": "Del bar",
       "products": [
-        { "name": "Camarón", "price": "$2300", "available": true },
-        { "name": "Langosta", "price": "$2300", "available": true }
+        { "name": "Camarón", "price": "$2000", "available": true },
+        { "name": "Langosta", "price": "$2000", "available": true }
       ]
     },
     {
       "title": "Guarniciones",
       "subtitle": "Acompañantes",
       "products": [
-        { "name": "Ración de Yuca", "price": "$750", "available": true },
+        { "name": "Ración de Yuca", "price": "$450", "available": true },
         { "name": "Ensalada mixta", "price": "$1100", "available": true }
       ]
     },
@@ -68,12 +68,12 @@
     "title": "Pastas & arroz",
     "subtitle": "Clásicos",
     "products": [
-      { "name": "Espaguetis de jamón", "price": "$1300", "available": true },
-      { "name": "Espaguetis con queso", "price": "$1300", "available": true },
-      { "name": "Espaguetis de jamón y queso", "price": "$1650", "available": true },
-      { "name": "Arroz blanco", "price": "$600", "available": true },
-      { "name": "Arroz moro", "price": "$800", "available": true },
-      { "name": "Arroz frito", "price": "$1400", "available": true }
+      { "name": "Espaguetis de jamón", "price": "$1000", "available": true },
+      { "name": "Espaguetis con queso", "price": "$1000", "available": true },
+      { "name": "Espaguetis de jamón y queso", "price": "$1350", "available": true },
+      { "name": "Arroz blanco", "price": "$300", "available": true },
+      { "name": "Arroz moro", "price": "$500", "available": true },
+      { "name": "Arroz frito", "price": "$1100", "available": true }
     ]
   },
   {
