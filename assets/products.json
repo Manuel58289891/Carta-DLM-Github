@@ -53,7 +53,7 @@
       "subtitle": "Acompañantes",
       "products": [
         { "name": "Ración de Yuca", "price": "$450", "available": true },
-        { "name": "Ración de Yuca con Chicharrones", "price": "$450", "available": true },
+        { "name": "Ración de Yuca con Chicharrones", "price": "$1200", "available": true },
         { "name": "Ensalada mixta", "price": "$1500", "available": true }
       ]
     },
@@ -227,6 +227,7 @@
       { "name": "Whisky Chivas Regal (18 años)", "price": "$2100", "available": true },
       { "name": "Whisky Chivas Regal (12 años)", "price": "$1800", "available": true },
       { "name": "Whisky Ballantine", "price": "$950", "available": true },
+       { "name": "Wisky JW Black Label", "price": "$1700", "available": true },
       { "name": "Whisky Red Label", "price": "$1100", "available": false },
       { "name": "Whisky Jameson", "price": "$1100", "available": true },
       { "name": "Whisky Jameson Black Barrel", "price": "$1350", "available": true },
