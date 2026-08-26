@@ -192,7 +192,7 @@
       { "name": "Cerveza Cristal", "price": "$700", "available": true },
       { "name": "Cerveza importada", "price": "$1100", "available": true },
       { "name": "Refresco de lata", "price": "$550", "available": true },
-      { "name": "Malta", "price": "$500", "available": true },
+      { "name": "Malta", "price": "$600", "available": true },
       { "name": "Red Bull", "price": "$850", "available": true },
       { "name": "Energético", "price": "$650", "available": true },
       { "name": "Kermato", "price": "$950", "available": true },
