@@ -189,7 +189,7 @@
       { "name": "Batido de helado", "price": "$1500", "available": true },
       { "name": "Cerveza de lata", "price": "$570", "available": true },
       { "name": "Cerveza Heiniken de lata", "price": "$750", "available": true },
-      { "name": "Cerveza Cristal", "price": "$700", "available": true },
+      { "name": "Cerveza Cristal", "price": "$750", "available": true },
       { "name": "Cerveza importada", "price": "$1100", "available": true },
       { "name": "Refresco de lata", "price": "$550", "available": true },
       { "name": "Malta", "price": "$600", "available": true },
