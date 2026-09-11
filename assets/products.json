@@ -218,7 +218,7 @@
       { "name": "Vodka Ciroc", "price": "$1000", "available": true },
       { "name": "Crema Baileys", "price": "$700", "available": true },
       { "name": "Crema Ruavieja", "price": "$550", "available": true },
-      { "name": "Crema Berentzen", "price": "$450", "available": true },
+      { "name": "Crema Berentzen", "price": "$1200", "available": true },
       { "name": "Ginebra Jodhpur (Spicy Destilled)", "price": "$550", "available": true },
       { "name": "Ginebra Jodhpur (Imported London Dry)", "price": "$550", "available": true },
       { "name": "Ginebra Masters Pink", "price": "$550", "available": true },
@@ -230,13 +230,14 @@
       { "name": "Whisky Chivas Regal (12 años)", "price": "$1800", "available": true },
       { "name": "Whisky Ballantine", "price": "$1050", "available": true },
        { "name": "Wisky JW Black Label", "price": "$1700", "available": true },
-      { "name": "Whisky Red Label", "price": "$1100", "available": false },
+      { "name": "Whisky Red Label", "price": "$1500", "available": true },
       { "name": "Whisky Jameson", "price": "$1100", "available": true },
       { "name": "Whisky Jameson Black Barrel", "price": "$1350", "available": true },
+      { "name": "Wisky Jack Daniel's", "price": "$2000", "available": true },
       { "name": "Tequila Blanco", "price": "$1000", "available": true },
       { "name": "Tequila Reposado", "price": "$1000", "available": true },
       { "name": "Tequila Rosé", "price": "$2400", "available": true },
-      { "name": "Jager", "price": "$950", "available": true },
+      { "name": "Jager", "price": "$1100", "available": true },
       { "name": "Ron Especial", "price": "$550", "available": true },
       { "name": "Vodka Magic Ice", "price": "$550", "available": true },
       { "name": "Añejo Especial", "price": "$550", "available": true }
@@ -260,12 +261,12 @@
       { "name": "Whisky Jameson Black Barrel (con 1 Red Bull)", "price": "$19500", "available": true },
       { "name": "Whisky Chivas Regal (18 años) (con 1 Red Bull)", "price": "$30000", "available": true },
        { "name": "Whisky Chivas Regal (12 años) (con 1 Red Bull)", "price": "$25000", "available": true },
-      { "name": "Whisky Red Label (con 1 Red Bull)", "price": "$----", "available": false },
+      { "name": "Whisky Red Label (con 2 Energizantes)", "price": "$22000", "available": true},
       { "name": "Tequila Rose", "price": "$35000", "available": true },
       { "name": "Jager", "price": "$14000", "available": true },
       { "name": "Havana Club 15 Años", "price": "$120 USD", "available": true },
-      { "name": "Wisky Blonde Label", "price": "$19500", "available": true }
-      
+      { "name": "Wisky Blonde Label", "price": "$19500", "available": true },
+      { "name": "Wisky Jack Daniel's", "price": "$30000", "available": true }
     ]
   }
     
