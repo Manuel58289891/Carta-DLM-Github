@@ -188,7 +188,7 @@
     "products": [
       { "name": "Batido de helado", "price": "$1500", "available": true },
       { "name": "Cerveza de lata", "price": "$650", "available": true },
-      { "name": "Cerveza Heiniken de lata", "price": "$750", "available": true },
+      { "name": "Cerveza Heiniken de lata", "price": "$900", "available": true },
       { "name": "Cerveza Cristal", "price": "$850", "available": true },
       { "name": "Cerveza Bucanero ", "price": "$850", "available": true },
       { "name": "Cerveza Hollandia", "price": "$700", "available": true },
