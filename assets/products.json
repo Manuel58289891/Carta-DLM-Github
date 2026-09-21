@@ -74,7 +74,7 @@
       { "name": "Espaguetis de jamón y queso", "price": "$1350", "available": true },
       { "name": "Arroz blanco", "price": "$300", "available": true },
       { "name": "Arroz moro", "price": "$500", "available": true },
-      { "name": "Arroz frito", "price": "$1100", "available": true }
+      { "name": "Arroz frito", "price": "$1300", "available": true }
     ]
   },
   {
@@ -198,7 +198,7 @@
       { "name": "Red Bull", "price": "$850", "available": true },
       { "name": "Energético", "price": "$650", "available": true },
       { "name": "Kermato", "price": "$950", "available": true },
-      { "name": "Jugo de Cajita", "price": "$300", "available": true },
+      { "name": "Jugo de Cajita", "price": "$400", "available": true },
       { "name": "Jugo de lata", "price": "$550", "available": true },
       { "name": "Pomo de agua", "price": "$300", "available": true }
     ]
@@ -248,6 +248,8 @@
     "title": "Botellas en Ofertas",
     "subtitle": "Promociones Especiales",
     "products": [
+      { "name": "Whisky Red Label (con 2 Energizantes)", "price": "$22000", "available": true},
+      { "name": "Tequila Rose", "price": "$35000", "available": true },
       { "name": "Vino Espumoso", "price": "$8000", "available": true },
       { "name": "Ron Havana Club Especial (con 1 Red Bull)", "price": "$8000", "available": true },
       { "name": "Ron Havana Club Smoky (con 1 Red Bull)", "price": "$13000", "available": true },
@@ -261,9 +263,7 @@
       { "name": "Whisky Jameson Black Barrel (con 1 Red Bull)", "price": "$19500", "available": true },
       { "name": "Whisky Chivas Regal (18 años) (con 1 Red Bull)", "price": "$30000", "available": true },
        { "name": "Whisky Chivas Regal (12 años) (con 1 Red Bull)", "price": "$25000", "available": true },
-      { "name": "Whisky Red Label (con 2 Energizantes)", "price": "$22000", "available": true},
-      { "name": "Tequila Rose", "price": "$35000", "available": true },
-      { "name": "Jager", "price": "$14000", "available": true },
+       { "name": "Jager", "price": "$22000", "available": true },
       { "name": "Havana Club 15 Años", "price": "$120 USD", "available": true },
       { "name": "Wisky Blonde Label", "price": "$19500", "available": true },
       { "name": "Wisky Jack Daniel's", "price": "$30000", "available": true }
