@@ -70,11 +70,11 @@
     "title": "Pastas & arroz",
     "subtitle": "Clásicos",
     "products": [
-      { "name": "Espaguetis con queso", "price": "$1200", "available": true },
-      { "name": "Espaguetis de jamón y queso", "price": "$1550", "available": true },
-      { "name": "Arroz blanco", "price": "$500", "available": true },
-      { "name": "Arroz moro", "price": "$700", "available": true },
-      { "name": "Arroz frito", "price": "$1500", "available": true }
+      { "name": "Espaguetis con queso", "price": "$1000", "available": true },
+      { "name": "Espaguetis de jamón y queso", "price": "$1350", "available": true },
+      { "name": "Arroz blanco", "price": "$300", "available": true },
+      { "name": "Arroz moro", "price": "$500", "available": true },
+      { "name": "Arroz frito", "price": "$1300", "available": true }
     ]
   },
   {
