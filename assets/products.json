@@ -191,7 +191,7 @@
       { "name": "Cerveza Shekels", "price": "$800", "available": true },
       { "name": "Cerveza Heiniken de lata", "price": "$900", "available": true },
       { "name": "Cerveza Cristal", "price": "$850", "available": true },
-      { "name": "Cerveza Bucanero ", "price": "$850", "available": true },
+      { "name": "Cerveza Bucanero ", "price": "$1000", "available": true },
       { "name": "Cerveza Hollandia", "price": "$700", "available": true },
       { "name": "Cerveza importada", "price": "$1100", "available": true },
       { "name": "Refresco de lata", "price": "$700", "available": true },
