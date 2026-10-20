@@ -202,7 +202,7 @@
       { "name": "Kermato", "price": "$950", "available": true },
       { "name": "Jugo de Cajita", "price": "$400", "available": true },
       { "name": "Jugo de lata", "price": "$550", "available": true },
-      { "name": "Pomo de agua", "price": "$300", "available": true }
+      { "name": "Pomo de agua", "price": "$350", "available": true }
     ]
   },
   {
