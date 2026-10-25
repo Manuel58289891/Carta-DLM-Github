@@ -15,10 +15,10 @@
     { "name": "Entremés de Jamón/queso", "price": "$1350", "available": true },
     { "name": "Entremés Mixto", "price": "$1700", "available": true },
     { "name": "Croquetas de la casa", "price": "$1500", "available": true },
-    { "name": "Tostones rellenos de jamón y queso", "price": "$2000", "available": true },
-    { "name": "Tostones rellenos de atún", "price": "$2000", "available": true },
-    { "name": "Tostones rellenos de ropa vieja de cerdo", "price": "$2000", "available": true },
-    { "name": "Tostones rellenos de ropa vieja de res", "price": "$2000", "available": true },
+    { "name": "Tostones rellenos de jamón y queso", "price": "$1950", "available": true },
+    { "name": "Tostones rellenos de atún", "price": "$1950", "available": true },
+    { "name": "Tostones rellenos de ropa vieja de cerdo", "price": "$1950", "available": true },
+    { "name": "Tostones rellenos de ropa vieja de res", "price": "$1950", "available": true },
     { "name": "Tostones naturales", "price": "$1500", "available": true },
     { "name": "Frituras de Malanga", "price": "$1200", "available": true },
     { "name": "Aceitunas", "price": "$900", "available": true },
@@ -70,8 +70,8 @@
     "title": "Pastas & arroz",
     "subtitle": "Clásicos",
     "products": [
-      { "name": "Espaguetis con queso", "price": "$1000", "available": true },
-      { "name": "Espaguetis de jamón y queso", "price": "$1350", "available": true },
+      { "name": "Espaguetis con queso", "price": "$1750", "available": true },
+      { "name": "Espaguetis de jamón y queso", "price": "$2100", "available": true },
       { "name": "Arroz blanco", "price": "$400", "available": true },
       { "name": "Arroz moro", "price": "$650", "available": true },
       { "name": "Arroz frito", "price": "$1650", "available": true }
@@ -84,7 +84,7 @@
       { "name": "Gordon blue 230g", "price": "$4955", "available": false },
       { "name": "Fajitas Empanadas 230g", "price": "$3300", "available": true },
       { "name": "Fajitas encebolladas 230g", "price": "$3300", "available": true },
-      { "name": "Bistec grillé 230g", "price": "$3150", "available": true },
+      { "name": "Suprema de Pollo 230g", "price": "$3150", "available": true },
       { "name": "Milanesa 230g", "price": "$4955", "available": true },
        { "name": "Bistec de Pechuga de Pollo Empanado", "price": "$3955", "available": true }
     ]
@@ -93,7 +93,7 @@
     "title": "Cerdo",
     "subtitle": "Parrilla",
     "products": [
-      { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "$5500", "available": true },
+      { "name": "Lomillo relleno gratinado 460g (vegetales, jamón y aceitunas)", "price": "$7000", "available": true },
       { "name": "Uruguayo 230g", "price": "$4955", "available": true },
       { "name": "Rollo Empanado 230g", "price": "$4000", "available": true },
       { "name": "Fajitas Empanadas 230g ", "price": "$3300", "available": true },
