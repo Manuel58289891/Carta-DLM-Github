@@ -27,7 +27,7 @@
     { "name": "Salchipapa", "price": "$2500", "available": true },
     { "name": "Crema de queso", "price": "$1200", "available": true },
     { "name": "Crema jamón y queso", "price": "$1400", "available": true },
-    { "name": "Bolitas queso", "price": "$1800", "available": true },
+    { "name": "Bolitas queso", "price": "$2200", "available": true },
     { "name": "Picadera DLM", "price": "$4800", "available": true }
   ]
   },
@@ -192,18 +192,18 @@
       { "name": "Cerveza Shekels", "price": "$860", "available": true },
       { "name": "Cerveza Windmill", "price": "$850", "available": true },
       { "name": "Cerveza Heiniken de lata", "price": "$900", "available": true },
-      { "name": "Cerveza Cristal", "price": "$1050", "available": true },
+      { "name": "Cerveza Cristal", "price": "$1150", "available": true },
       { "name": "Cerveza Bucanero ", "price": "$1000", "available": true },
-      { "name": "Cerveza Hollandia", "price": "$700", "available": true },
+      { "name": "Cerveza Hollandia", "price": "$860", "available": true },
       { "name": "Cerveza importada", "price": "$1100", "available": true },
-      { "name": "Refresco de lata", "price": "$700", "available": true },
-      { "name": "Malta", "price": "$750", "available": true },
+      { "name": "Refresco de lata", "price": "$800", "available": true },
+      { "name": "Malta", "price": "$850", "available": true },
       { "name": "Red Bull", "price": "$850", "available": true },
-      { "name": "Energético", "price": "$650", "available": true },
+      { "name": "Energético", "price": "$750", "available": true },
       { "name": "Kermato", "price": "$950", "available": true },
-      { "name": "Jugo de Cajita", "price": "$400", "available": true },
+      { "name": "Jugo de Cajita", "price": "$550", "available": true },
       { "name": "Jugo de lata", "price": "$550", "available": true },
-      { "name": "Pomo de agua", "price": "$350", "available": true }
+      { "name": "Pomo de agua", "price": "$400", "available": true }
     ]
   },
   {
