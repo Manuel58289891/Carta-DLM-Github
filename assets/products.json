@@ -84,7 +84,7 @@
       { "name": "Gordon blue 230g", "price": "$4955", "available": false },
       { "name": "Fajitas Empanadas 230g", "price": "$3300", "available": true },
       { "name": "Fajitas encebolladas 230g", "price": "$3300", "available": true },
-      { "name": "Suprema de Pollo 230g", "price": "$3150", "available": true },
+      { "name": "Suprema de Pollo 230g", "price": "$3600", "available": true },
       { "name": "Milanesa 230g", "price": "$4955", "available": true },
        { "name": "Bistec de Pechuga de Pollo Empanado", "price": "$3955", "available": true }
     ]
@@ -99,7 +99,7 @@
       { "name": "Fajitas Empanadas 230g ", "price": "$3300", "available": true },
       { "name": "Fajitas Encebolladas 230g", "price": "$3300", "available": true },
       { "name": "Milanesa 230g (con jamón y queso)", "price": "$4955", "available": true },
-      { "name": "Bistec grillé 230g", "price": "$3150", "available": true },
+      { "name": "Bistec grillé 230g", "price": "$3600", "available": true },
       { "name": "Bistec grillé", "price": "Con agregos", "available": true },
       { "name": "Ropa vieja 150g", "price": "$2500", "available": true },
       { "name": "Brusquetas 300g", "price": "$2700", "available": true },
